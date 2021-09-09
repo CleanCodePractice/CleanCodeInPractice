@@ -1,0 +1,6 @@
+rootProject.name = 'CleanCode'
+include 'dry'
+include 'yagni'
+include 'kiss'
+include 'MeaningfulNames'
+
